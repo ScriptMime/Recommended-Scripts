@@ -18,6 +18,7 @@ We provide the source code if you want to make the script your own *AND* the exe
   5. If you close the user interface, you can find the icon in your system tray, right click it, and select "Reload This Script" to launch it again.<img width="233" alt="tray" src="https://user-images.githubusercontent.com/81720879/113357894-c3497e00-9312-11eb-9f06-a4713f79544c.png">
   6. Put this script in your Startup folder so it runs every time you turn on your computer!
   
+### DEMO
 ![masterscriptGUIdemo](https://user-images.githubusercontent.com/81720879/113355372-add25500-930e-11eb-94af-0f524cc20bbf.gif)
 
 
@@ -36,7 +37,7 @@ ________________________________________________________________________________
   3. Click run.
   4. (optional) save your script if you decide to keep it. 
  
-
+### DEMO
 ![codequicktesterdemo](https://user-images.githubusercontent.com/81720879/113355362-a9a63780-930e-11eb-9706-2321c13083ed.gif)
 
 
