@@ -21,7 +21,7 @@ We provide the source code if you want to make the script your own *AND* the exe
 ### DEMO
 ![masterscriptGUIdemo](https://user-images.githubusercontent.com/81720879/113355372-add25500-930e-11eb-94af-0f524cc20bbf.gif)
 
-
+[View the source code here![(https://github.com/ScriptMime/Recommended-Scripts/tree/CodeQuickTester)
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
