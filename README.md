@@ -8,13 +8,36 @@ We provide the source code if you want to make the script your own *AND* the exe
 
 
 ## Autohotkey Script Manager
+ #### One script to manage them all!
+ 
+ Use this script to start and stop all your scripts. 
+  1. Simply open the user interface tool. 
+  2. Add a name, description and the full path of the script.
+  3. Use "master_run" command to run all the scripts in your list, except your master script.
+  4. Use "master_reload" command to kill all scripts running.
+  5. 
+  6. Put this script in your Startup folder so it runs every time you turn on your computer!
+  
+![masterscriptGUIdemo](https://user-images.githubusercontent.com/81720879/113355372-add25500-930e-11eb-94af-0f524cc20bbf.gif)
 
 
-![demo1](https://user-images.githubusercontent.com/81720879/113354609-6eefcf80-930d-11eb-82c9-2efebbf6501c.mp4)
 
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
+## GeekDude's CodeQuickTester
+ #### This is an editor with a "Run" button that lets you paste code into it and use a script without having to save it!
+ 
+ GeekDude is a member of the autohotkey community with fabulous scripts like this one.
+ CodeQuickTester is an open-source editor with full autohotkey syntax and many features. [See GeekDude's github page for more info](https://github.com/G33kDude/CodeQuickTester).
+ Use it to run code you find on ScriptMime!
+  1. Launch CodeQuickTester.
+  2. Paste code.
+  3. Click run.
+  4. (optional) save your script if you decide to keep it. 
+ 
+
+![codequicktesterdemo](https://user-images.githubusercontent.com/81720879/113355362-a9a63780-930e-11eb-9706-2321c13083ed.gif)
 
 
-
-![demo2](https://user-images.githubusercontent.com/81720879/113354624-731bed00-930d-11eb-8475-f9f7b00508e4.mp4)
 
