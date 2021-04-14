@@ -13,8 +13,8 @@ We provide the source code if you want to make the script your own *AND* the exe
  Use this script to start and stop all your scripts. 
   1. Simply open the user interface tool. 
   2. Add a name, description and the full path of the script and click Submit. Do this for all the scripts you want managed. Your scripts will be saved!
-  3. Use "master_run" command to run all the scripts in your list at any time, except your master script.
-  4. Use "master_reload" command to kill all scripts running at any time.
+  3. Use "master_run" command to run all the scripts in your list at any time.
+  4. Use "master_reload" command to kill all scripts running ,except your master script, at any time.
   5. If you close the user interface, you can find the icon in your system tray, right click it, and select "Reload This Script" to launch it again.<img width="233" alt="tray" src="https://user-images.githubusercontent.com/81720879/113357894-c3497e00-9312-11eb-9f06-a4713f79544c.png">
   6. Put this script in your Startup folder so it runs every time you turn on your computer!
   
