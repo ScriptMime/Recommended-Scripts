@@ -11,7 +11,7 @@ We provide the source code if you want to make the script your own *AND* the exe
  #### One script to manage them all!
  
  Use this script to start and stop all your scripts. 
-  1. Simply open the user interface tool. 
+  1. Simply open the user interface tool by clicking on the exectuable or compiling the .ahk file. 
   2. Add a name, description and the full path of the script and click Submit. Do this for all the scripts you want managed. Your scripts will be saved!
   3. Use "master_run" command to run all the scripts in your list at any time.
   4. Use "master_reload" command to kill all scripts running ,except your master script, at any time.
